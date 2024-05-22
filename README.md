@@ -7,7 +7,7 @@
 
 
 <div align="left">
-  <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif?cid=6c09b952hjubb2d9akez4qm7izyto1jzz7fd0b2fl3cfdemn&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+  <img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif?cid=6c09b952hjubb2d9akez4qm7izyto1jzz7fd0b2fl3cfdemn&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </div>
 
 
