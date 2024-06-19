@@ -1,4 +1,4 @@
-<p align="center"><img align="right" alt="Coding" width="100%" src="https://t3.ftcdn.net/jpg/02/42/83/38/360_F_242833857_rsLAXVpWoSsKMOt9n5BCb4IRdNRupQ8X.jpg"></p>
+<p align="center"><ig align="right" alt="Coding" width="100%" src="https://t3.ftcdn.net/jpg/02/42/83/38/360_F_242833857_rsLAXVpWoSsKMOt9n5BCb4IRdNRupQ8X.jpg"></p>
 <div>
   <img src="https://komarev.com/ghpvc/?username=samuelacquatey&style=flat-square&color=green" alt=""/>
   <h1 align="center">Hi 👋, I'm Kwasi</h1>
