@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=samuelacquatey&style=flat-square&color=green" alt=""/>
   <h1 align="center">Hi 👋, I'm Kwasi</h1>
 </div>
-<h3 align="center">A passionate data scientist from Ghana</h3>
+<h3 align="center">and i am a data geek :D</h3>
 
 
 <div align="left">
@@ -16,9 +16,9 @@
 
 - 👨‍💻 All of my projects are available at [datascienceportfol.io/kingsleyacquatey](datascienceportfol.io/kingsleyacquatey)
 
-- 📫 How to reach me **samuelacquatey@gmail.com**
+- 📫 send me a message via**samuelacquatey@gmail.com**
 
-- ⚡ Fun fact **Chess is my thing :)**
+- ⚡ I enjoy playing chess and reading self development books when i'm free
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
